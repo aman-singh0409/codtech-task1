@@ -7,7 +7,7 @@
 
 
 
-##Overview of the Basic Calculator Project
+Overview of the Basic Calculator Project
 Project Name: Basic Calculator
 
 Objective:
