@@ -1,4 +1,6 @@
 
+## Project Details
+
 - **Name**: AMAN KUMAR SINGH
 - **Company**: CODTECH IT SOLUTIONS
 - **Internship ID**: CT08DS6830
