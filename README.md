@@ -1,47 +1,35 @@
 **Name:** AMAN KUMAR SINGH
 **Company:** CODTECH IT SOLUTIONS
-#ID:CT08DS6830
-#Domain: JAVA PROGRAMMING
-#Duration: 15 AUGUST TO 15 SEPTEMBER 2024
-#Mentor: MUZAMMIL AHMED
+ID:CT08DS6830
+Domain: JAVA PROGRAMMING
+Duration: 15 AUGUST TO 15 SEPTEMBER 2024
+Mentor: MUZAMMIL AHMED
 
 
 
-Overview of the Basic Calculator Project
-Project Name: Basic Calculator
 
-Objective:
-The Basic Calculator project is designed to create a simple command-line application in Java that allows users to perform basic arithmetic operations. The calculator accepts two numbers from the user, allows the user to select an arithmetic operation (addition, subtraction, multiplication, or division), and displays the result of the operation.
+# Basic Calculator
 
-Key Features:
+## Overview
 
-1. User Input:
+The **Basic Calculator** is a simple command-line Java application that performs basic arithmetic operations. This project demonstrates fundamental Java programming concepts, including user input handling, conditional logic, and arithmetic operations.
 
-Prompts the user to enter two numeric values.
-Requests the user to select an arithmetic operator (+, -, *, /) to determine the operation to be performed.
-2. Arithmetic Operations:
+### Features
 
-Supports four basic operations:
-Addition: Computes the sum of two numbers.
-Subtraction: Computes the difference between two numbers.
-Multiplication: Computes the product of two numbers.
-Division: Computes the quotient of two numbers, with error handling for division by zero.
-3. Error Handling:
+- **User Input**: Prompts the user to enter two numeric values and select an arithmetic operator.
+- **Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Error Handling**: Includes checks for division by zero and invalid operators.
+- **Result Display**: Formats and displays the result of the arithmetic operation.
 
-Division by Zero: Checks if the user attempts to divide by zero and provides an error message.
-Invalid Operator: Validates the operator input and provides an error message if the input is not a recognized operator.
-4. Result Display:
+## Getting Started
 
-Formats and displays the result of the arithmetic operation clearly, including the operands, operator, and result.
-Technical Details:
+### Prerequisites
 
-Programming Language: Java
-Components:
-Scanner: Used for reading user input from the console.
-Switch Statement: Used to determine which arithmetic operation to perform based on the user's operator input.
-Conditionals: Used to handle division by zero and invalid operators.
-User Interaction:
+- **Java Development Kit (JDK)**: Ensure you have JDK installed on your machine. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or install it via a package manager.
 
-The user runs the program from the command line.
-The program sequentially prompts the user to enter two numbers and an arithmetic operator.
-After performing the requested operation, the result is displayed to the user.
+### Installation
+
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/yourusername/basic-calculator.git
+
